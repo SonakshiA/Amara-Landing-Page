@@ -300,3 +300,11 @@ a{
   font-weight: bold;
   font-size: 12px;
 }
+
+.social-media .grow{
+  transition: .2s ease-in-out;
+}
+
+.social-media .grow:hover{
+  transform: scale(1.5);
+}
